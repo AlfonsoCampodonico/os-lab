@@ -1,0 +1,4 @@
+.worktrees/
+.zig-cache/
+zig-cache/
+zig-out/
